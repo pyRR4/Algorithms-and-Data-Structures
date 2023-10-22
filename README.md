@@ -2,6 +2,7 @@
 My second-term course in college
 
 
+Every task was made in java.
 It's important to point out that the unit tests aren't mine, but the teacher's who conducted the course.
 
 The lists contains:
